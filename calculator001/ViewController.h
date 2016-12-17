@@ -13,6 +13,8 @@
 @property (weak, nonatomic) IBOutlet UITextField *textOne;
 @property (weak, nonatomic) IBOutlet UITextField *textTwo;
 @property (weak, nonatomic) IBOutlet UITextField *resultField;
+@property (weak, nonatomic) IBOutlet UITextField *result;
+
 
 @end
 
